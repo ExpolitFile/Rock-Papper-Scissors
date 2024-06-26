@@ -1,2 +1,2 @@
 # RockPapercissors
-A game of Roxk papper scissors
+A game of Rock papper scissors
